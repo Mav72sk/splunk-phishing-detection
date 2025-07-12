@@ -1,0 +1,6 @@
+2025-07-12 09:15:12,src=john.doe@gmail.com,dst=alice@company.com,subject="Urgent: Invoice Attached",attachment="invoice.exe",action=delivered
+2025-07-12 09:15:50,src=admin@company.com,dst=it@company.com,subject="Password Reset Required",attachment="reset.zip",action=delivered
+2025-07-12 09:16:32,src=ceo@externalmail.com,dst=finance@company.com,subject="Payment Confirmation",attachment="payment.pdf",action=delivered
+2025-07-12 09:17:10,src=alerts@securebank.com,dst=hr@company.com,subject="Account Locked",attachment="notice.docx",action=quarantined
+2025-07-12 09:18:45,src=support@company.co,dst=admin@company.com,subject="Verify Account Now!",attachment="verify.htm",action=delivered
+
