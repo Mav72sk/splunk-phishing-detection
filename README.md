@@ -1,5 +1,4 @@
-# 
-️ Phishing Email Detection in Splunk
+# Phishing Email Detection in Splunk
 
 This project demonstrates how to detect phishing emails using Splunk by analyzing simulated email gateway logs.
 
@@ -17,9 +16,11 @@ Synthetic log file: `email_logs.txt`
 
 Built using Splunk Classic Dashboard with three detection panels.
 
-![Dashboard](screenshots/dashboard.png)
+<img width="945" height="700" alt="Screenshot 2025-07-12 at 8 07 22 AM" src="https://github.com/user-attachments/assets/c19e34c6-c087-4af5-a545-a4afd64d4ebb" />
 
-##️ Tools Used
+
+## Tools Used
+
 
 - Splunk (Free Tier)
 - MacBook M2 with Rosetta
